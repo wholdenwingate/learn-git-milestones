@@ -312,10 +312,10 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😇 
-4b | Link to `commit #1 from Github.com` | 
-4c | Link to markdown tables docs |
-4d | What does `log` do? |
-5a | 2nd Favorite emoji |
+4b | Link to `commit #1 from Github.com` | (https://github.com/wholdenwingate/learn-git-milestones/commits?author=wholdenwingate)
+4c | Link to markdown tables docs | [link](https://github.com/wholdenwingate/learn-git-milestones/commits?author=wholdenwingate)
+4d | What does `log` do? | log is a command to look into a browsers history
+5a | 2nd Favorite emoji |👌
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
