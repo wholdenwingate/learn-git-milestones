@@ -312,8 +312,8 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😇 
-4b | Link to `commit #1 from Github.com` | 
-4c | Link to markdown tables docs |
+4b | Link to `commit #1 from Github.com` |(https://github.com/wholdenwingate/learn-git-milestones/commits?author=wholdenwingate)
+4c | Link to markdown tables docs | [link](https://github.com/wholdenwingate/learn-git-milestones/commits?author=wholdenwingate)
 4d | What does `log` do? |
 5a | 2nd Favorite emoji |
 5b | Link to `commit #2 from Github Desktop` |
