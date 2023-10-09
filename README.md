@@ -321,8 +321,8 @@ Item # | Description | Completed
 6b | Link to `commit #3 from CLI` | https://github.com/wholdenwingate/learn-git-milestones/commit/3514cdfd4259187e41bb75e1189b7ec3e201b040
 7 | 3rd Favorite emoji |🎅🏽
 8 | Link to `commit #4 from VS Code` |https://github.com/wholdenwingate/learn-git-milestones/commit/9352b4495e1feca45893b461126d76b26962276a
-9a | Link to `first-website` github.com repo page |
-9a | Link to `first-website` github.io "project site" |
+9a | Link to `first-website` github.com repo page | https://github.com/wholdenwingate/first-website
+9a | Link to `first-website` github.io "project site" | https://wholdenwingate.github.io/first-website/
 
 
 
