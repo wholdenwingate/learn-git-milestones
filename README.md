@@ -318,8 +318,8 @@ Item # | Description | Completed
 5a | 2nd Favorite emoji |👌
 5b | Link to `commit #2 from Github Desktop` |(https://github.com/omundy/learn-git-milestones/tree/53875306f651c2dc76b94b697daacdd7be494c66)
 6a | Full path to your working directory | /c/Users/whold/dig-245-sites
-6b | Link to `commit #3 from CLI` |
-7 | 3rd Favorite emoji |
+6b | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/tree/3514cdfd4259187e41bb75e1189b7ec3e201b040
+7 | 3rd Favorite emoji |🎅🏽
 8 | Link to `commit #4 from VS Code` |
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
